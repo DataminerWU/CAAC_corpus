@@ -9,7 +9,7 @@
 📈 自动术语发现更新机制
 快速开始
 # 下载机场词典和语料库
-git clone https://github.com/DataminerWU/aviation-nlp.git
+git clone https://github.com/DataminerWU/CAAC_corpus
 
 # 启动API服务
 docker-compose up -d
